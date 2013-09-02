@@ -26,6 +26,5 @@ function _touches() {
         commitMessage="$2"
     fi
 	
-	echo "git commit -m \"[touches: $1] $commitMessage\""
-    #git commit -m "[touches: $1] $commitMessage"
+    git commit -m "[touches: $1] $commitMessage"
 }

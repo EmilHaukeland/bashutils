@@ -1,0 +1,15 @@
+#!/bin/sh
+
+alias g='git'
+alias gdf='git diff'
+alias gco='git checkout'
+alias gci='git commit'
+alias gbr='git checkout -b'
+alias gst='git status'
+alias gadd='git add'
+alias gmv='git mv'
+alias grm='git rm'
+alias gmg='git merge'
+alias gpu='git push'
+alias gpl='git pull'
+alias gtg='git tag'
